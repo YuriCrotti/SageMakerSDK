@@ -10,9 +10,9 @@
     ├── Data                <- Data for use in this project.
 	│	│
 	│	├── bytebank_credito.csv        <- Complete csv file.
-	│   ├── df_bytebank_teste.csv       <- Test csv file.
-	│   ├── df_bytebank_treino.csv      <- Train csv file.
-	│   └── ddf_bytebank_validacao.csv  <- Validation csv file.
+	│	├── df_bytebank_teste.csv       <- Test csv file.
+	│	├── df_bytebank_treino.csv      <- Train csv file.
+	│	└── ddf_bytebank_validacao.csv  <- Validation csv file.
 	│  
     └─── src                <- Source code for use in this project.
 		│
