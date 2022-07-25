@@ -24,7 +24,7 @@ The files must be run in SAGEMAKER notebook Instances.
 		└── lambda_function.py      		<- Lambda function for model access.
 		
 # Project instructions
-------------
+
 
 In this project is carried out:
 
@@ -42,7 +42,7 @@ In this project is carried out:
 
 		
 # Tools used
-------------
+
 	
 	SageMaker
 		* Notebook instances
