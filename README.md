@@ -20,3 +20,20 @@
 		├── SageMakerSDK.ipynb          	<- Building a machine learning model in the SageMaker SDK.
 		├── SageMakerSDKTuningHyper.ipynb	<- Building a Machine Learning Model with hyperparameter tuning in the SageMaker SDK.
 		└── lambda_function.py      		<- Lambda function for model access.
+		
+# Project instructions
+------------
+
+In this project is carried out:
+
+	* Variable preparation and data loading in S3
+	* Defining object paths and training parameters
+	* Configuring training job settings
+	* Preparation for Training
+	* Model training and Hyperparameter Tuning 
+	* Endpoint configuration
+	* Model Logs and Created Artifacts
+	* Deploying the model to the endpoint
+	* Model call on endpoint
+	* Checking information in Cloudwatch
+	* Destruction of built artifacts
